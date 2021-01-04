@@ -2,11 +2,17 @@
 A information gathering tool for IPs
 which includes the following:
 *My ip*
+
 *Ip info and site*
+
 *Host Dns scanner*
+
 *Port Scanner*
+
 *Host finder*
+
 *info domain*
+
 *Extract links*
 
 # Author: AnonyminHack5
@@ -27,4 +33,4 @@ which includes the following:
 
 > bash info.sh
 
-*Please star this repo and follow me, thanks,
+*Please star this repo and follow me, thanks*
